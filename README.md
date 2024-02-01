@@ -4,8 +4,7 @@
     <img src="https://img.shields.io/badge/HTML5-fff?logo=HTML5&style=for-the-badge" />
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Javascript-323330?logo=javascript&style=for-the-badge" />
-    <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
-    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/react-00b5e7?&logo=react&logoColor=FFFFFF&style=for-the-badge" />
    </div>
 
 <p align="center"> Hey, I'm Aryan, a dedicated grade 10 student with a deep passion for computer programming and mathematics. Over the past four years, I have fully immersed myself in the world of coding, starting with fundamental languages like Python, HTML, CSS, and JavaScript. My journey has also led me to explore more advanced technologies, including NextJS, TypeScript, and React.</p>
