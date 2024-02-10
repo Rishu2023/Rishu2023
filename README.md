@@ -13,7 +13,7 @@
   <a align ="center" href="https://www.linkedin.com/in/aryan-mittal-0050922aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdein Link"/> </a>
     <br/>
   <a align ="center" href="https://medium.com/@rishu108m"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Link"/> </a>
-
+<a href="https://dmoj.ca/user/755089"><img src="https://img.shields.io/badge/-DM::OJ-c9c900?style=flat-square" alt="DMOJ Link"/> </a>
  <div align="center"> 
   <a href="https://github.com/Rishu2023#gh-light-mode-only">
     <img
