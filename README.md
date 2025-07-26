@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/react-00b5e7?&logo=react&logoColor=FFFFFF&style=for-the-badge" />
    </div>
 
-<p align="center"> Hey, I'm Aryan, a dedicated grade 10 student with a deep passion for computer programming and mathematics. Over the past four years, I have fully immersed myself in the world of coding, starting with fundamental languages like Python, HTML, CSS, and JavaScript. My journey has also led me to explore more advanced technologies, including NextJS, TypeScript, and React.</p>
+<p align="center"> Hey, I'm Aryan, a dedicated grade 12 student with a deep passion for computer programming and mathematics. Over the past four years, I have fully immersed myself in the world of coding, starting with fundamental languages like Python, HTML, CSS, and JavaScript. My journey has also led me to explore more advanced technologies, including NextJS, TypeScript, and React.</p>
 
 <p align="center">
   <a align ="center" href="https://www.linkedin.com/in/aryan-mittal-0050922aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdein Link"/> </a>
